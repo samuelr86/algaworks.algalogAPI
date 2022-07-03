@@ -726,3 +726,33 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:21.494
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:21.516
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:21.523
+!MESSAGE buffering callback sts4.classpath.ifHbniaw algalog-api false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:21.524
+!MESSAGE executing callback sts4.classpath.ifHbniaw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:21.727
+!MESSAGE executing callback sts4.classpath.ifHbniaw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:26.364
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:26.369
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:26.373
+!MESSAGE buffering callback sts4.classpath.ifHbniaw algalog-api false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:26.374
+!MESSAGE executing callback sts4.classpath.ifHbniaw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-03 20:27:26.392
+!MESSAGE executing callback sts4.classpath.ifHbniaw SUCCESS [done]
