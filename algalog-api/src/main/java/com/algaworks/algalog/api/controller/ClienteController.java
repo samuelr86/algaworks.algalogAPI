@@ -77,6 +77,7 @@ public class ClienteController {
 		}
 		
 		clienteRepository.deleteById(id);
+		
 		return ResponseEntity.noContent().build();
 	}
 	
